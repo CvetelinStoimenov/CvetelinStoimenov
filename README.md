@@ -48,12 +48,12 @@ Hello, I'm Cvetelin Stoimenow, currently enrolled in SoftUni for Automation QA.
 - Understanding fundamental concepts of automated testing.
 
 ## Certifications:
-1. [Software Technologies Certificate](https://softuni.bg/certificates/details/175506/b5bc64f7) - Distinction
-2. [QA Fundamentals and Manual Testing Certificate](https://softuni.bg/certificates/details/183403/60d46c4d) - Distinction
-3. [Programming Fundamentals and Unit Testing Certificate](https://softuni.bg/certificates/details/192189/10792e5c) - Distinction
+1. [Software Technologies Certificate](https://softuni.bg/certificates/details/175506/b5bc64f7)
+2. [QA Fundamentals and Manual Testing Certificate](https://softuni.bg/certificates/details/183403/60d46c4d)
+3. [Programming Fundamentals and Unit Testing Certificate](https://softuni.bg/certificates/details/192189/10792e5c)
 
 ## Next Steps:
-Currently advancing my skills in Quality Assurance at SoftUni. Stay tuned for more updates on my learning journey!
+Currently advancing my skills in Automation Quality Assurance at SoftUni. Stay tuned for more updates on my learning journey!
 
 <!--
 **CvetelinStoimenov/CvetelinStoimenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
