@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello, I'm Cvetelin Stoimenow, currently enrolled in SoftUni for QA.
+Hello, I'm Cvetelin Stoimenow, currently enrolled in SoftUni for Automation QA.
 
 ## Courses Completed:
 
