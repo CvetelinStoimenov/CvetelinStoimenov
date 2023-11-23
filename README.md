@@ -44,24 +44,24 @@ Hello, I'm Cvetelin Stoimenow, currently enrolled in SoftUni for Automation QA.
    - Gained an understanding of upcoming professional modules and knowledge to become successful professionals in automated software testing.
 
 ## Skills Acquired:
-- Accessing and working with remote resources.
-- Recognizing hardware and software components in a computer system.
-- Working with various operating systems.
-- Basic proficiency in different programming languages.
-- Project management using various tools.
-- Handling relational and non-relational databases.
-- Software testing techniques: black box, white box, regression.
-- Working with defect tracking systems.
-- Manual testing of software projects.
-- Testing web-based systems.
-- Working with software requirements specifications.
-- Skills in working with relational databases.
-- Executing HTTP requests with Postman.
-- Unit Testing (Component Testing).
-- Using standard functionality of programming languages.
-- Working with linear data structures.
-- Declaring and invoking methods.
-- Understanding fundamental concepts of automated testing.
+- 🌐 Accessing and working with remote resources.
+- 💻 Recognizing hardware and software components in a computer system.
+- 🖥️ Working with various operating systems.
+- 📝 Basic proficiency in different programming languages.
+- 📊 Project management using various tools.
+- 📂 Handling relational and non-relational databases.
+- 🧪 Software testing techniques: black box, white box, regression.
+- 🐛 Working with defect tracking systems.
+- 🕵️‍♂️ Manual testing of software projects.
+- 🌐 Testing web-based systems.
+- 📜 Working with software requirements specifications.
+- 💽 Skills in working with relational databases.
+- 📬 Executing HTTP requests with Postman.
+- 🧪 Unit Testing (Component Testing).
+- 🚀 Using standard functionality of programming languages.
+- 📊 Working with linear data structures.
+- 📞 Declaring and invoking methods.
+- 🎓 Understanding fundamental concepts of automated testing.
 
 ## Certifications:
 1. [Agile Essentials with Scrum Certificate](https://softuni.bg/certificates/details/171145/f24cb7e4)
