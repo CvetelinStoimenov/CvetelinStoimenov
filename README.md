@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 Hello, I'm **Cvetelin Stoimenov**, currently embarked on a thrilling journey in Automation QA at SoftUni. 🚀
-
+<h3 align="left">Languages and Tools:</h3>
 ## Courses Completed:
 
 1. **Agile Essentials with Scrum - February 2023:**
