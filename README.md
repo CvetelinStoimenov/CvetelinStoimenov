@@ -81,7 +81,7 @@ Hello, I'm **Cvetelin Stoimenov**, currently embarked on a thrilling journey in 
    - Learned HTML, CSS, JavaScript, DOM manipulation, and AJAX.
    - Gained experience with qUnit and Playwright for front-end testing.
      
-10. **Front-End Test Automation - July 2024:**
+9. **Front-End Test Automation - July 2024:**
    - Started on July 1, 2024, and completed with the exam on August 21, 2024.
    - Advanced front-end test automation using Selenium, Appium, and Sikuli.
    - Focused on test automation architecture and security testing.
