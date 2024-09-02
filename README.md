@@ -80,7 +80,7 @@ Hello, I'm **Cvetelin Stoimenov**, currently embarked on a thrilling journey in 
    - Started on May 13, 2024, and completed with the exam on July 1, 2024.
    - Learned HTML, CSS, JavaScript, DOM manipulation, and AJAX.
    - Gained experience with qUnit and Playwright for front-end testing.
-
+     
 10. **Front-End Test Automation - July 2024:**
    - Started on July 1, 2024, and completed with the exam on August 21, 2024.
    - Advanced front-end test automation using Selenium, Appium, and Sikuli.
@@ -116,7 +116,7 @@ Hello, I'm **Cvetelin Stoimenov**, currently embarked on a thrilling journey in 
 7. [Back-End Technologies Basics - January 2024 Certificate](https://softuni.bg/certificates/details/207480/55d1e6ca) 📜
 8. [Back-End Test Automation Certificate](https://softuni.bg/certificates/details/214756/a71739c8) 🐛
 9. [Front-End Technologies Basics Certificate](https://softuni.bg/certificates/details/220109/0819f6b5) 📬
-10. [Front-End Test Automation Certificate]([https://softuni.bg/certificates/details/192189/10792e5c](https://softuni.bg/certificates/details/224792/e2dae625)) 📊
+10. [Front-End Test Automation Certificate](https://softuni.bg/certificates/details/224792/e2dae625) 📊
 
 ## Next Steps:
 Currently advancing my skills in **Automation Quality Assurance** at SoftUni. Stay tuned for more updates on my learning journey! 🌟
