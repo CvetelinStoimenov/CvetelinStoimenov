@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello, I'm **Cvetelin Stoimenov**, currently embarked on a thrilling journey in Automation QA at SoftUni. 🚀
+Hello, I'm **Cvetelin Stoimenov**, a recent graduate in Automation QA from SoftUni. 🚀 With a passion for technology and a strong foundation in both manual and automated testing, I’m eager to begin my professional journey in the field. My education and hands-on projects have equipped me with the skills to excel in quality assurance, and now I’m looking for the right opportunity to apply my knowledge in a real-world setting.
+
+I’m ready to contribute, grow, and make an impact in the world of software quality. Let's connect and explore the potential of working together!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
